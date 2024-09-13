@@ -158,7 +158,7 @@ li a:hover {
 
 @media only screen and (max-width: 425px) {
     .image {
-        height: 800px;
+        height: 600px;
     }
 
     .header {
