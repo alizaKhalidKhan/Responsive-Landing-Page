@@ -154,11 +154,14 @@ li a:hover {
     .menu-toggle:checked ~ ul {
         display: flex;
     }
+    .image {
+        height: 100%;
+    }
 }
 
 @media only screen and (max-width: 425px) {
     .image {
-        height: 100%;
+        height: 600px;
     }
 
     .header {
