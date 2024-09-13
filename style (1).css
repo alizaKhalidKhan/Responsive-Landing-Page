@@ -200,7 +200,6 @@ li a:hover {
 
 @media only screen and (max-width: 320px) {
     .image {
-        margin-top: 100px;
         height: 400px;
     }
 
