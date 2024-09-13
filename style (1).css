@@ -191,8 +191,8 @@ li a:hover {
     }
 
     .quote, .contact {
-        width: 100px; /* Adjusted button size */
-        height: 70px;
+        width: 130px; /* Adjusted button size */
+        height: 40px;
     }
 }
 
@@ -211,7 +211,7 @@ li a:hover {
     }
 
     .quote, .contact {
-        width: 90px; /* Adjusted button size */
-        height: 70px;
+        width: 120px; /* Adjusted button size */
+        height: 35px;
     }
 }
